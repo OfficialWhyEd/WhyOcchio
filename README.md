@@ -1,4 +1,4 @@
-# Occhio
+# WhyOcchio
 
 **Give a coding agent eyes: a local webcam service that captures, analyses and serves frames so the agent can check the physical world (LEDs, screens, objects).**
 
